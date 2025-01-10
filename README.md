@@ -1,4 +1,4 @@
-# CREDIT GUARD : THE LOAN DEFAULT FORESIGHTING
+# CREDIT GUARD : LOAN RISK ASSESSMENT
 ## INTRODUCTION
 This document serves as a comprehensive guide for the credit default prediction model developed using Machine Learning (ML) techniques and visualized through Power BI. The model aims to predict the likelihood of loan defaults based on various borrower attributes and loan characteristics, providing valuable insights for financial institutions. Credit default prediction is a critical task in the financial industry. Acurate prediction of credit defaults enables financial institutions to minimize losses, optimize lending decisions, and improve overall portfolio risk management.
 
