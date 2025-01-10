@@ -50,6 +50,8 @@ Loan Status Scores: Visual representation of predicted loan statuses.
 
 Charts: Various charts illustrating key insights derived from the model predictions.
 
+https://github.com/Ujjwal-Jaiswal-UJ/credit-guard-loan-default-prediction/blob/fa7b8c3060ea206b478b82e6e88d1d03a5a1c9de/Model1.png
+
 This comprehensive approach ensures that stakeholders can visualize and interpret the credit risk assessment effectively, aiding in informed decision-making regarding loan approvals and risk management strategies.
 
 ## CONCLUSION
