@@ -55,8 +55,7 @@ This comprehensive approach ensures that stakeholders can visualize and interpre
 ## CONCLUSION
 The project successfully demonstrated the development and evaluation of machine learning models for credit default prediction. By combining Python for model training and Power BI for visualization and analysis, I gained valuable insights into the factors driving credit risk. The findings from this project can inform lending decisions, optimize risk assessment processes, and ultimately enhance the profitability and stability of financial institutions.
 
-[Credit Guard - The Credit Default Foresighting Presentation](https://www.canva.com/design/DAGbr72e820/ofwsPstNGvsS9dnIBKYenA/view?utm_content=DAGbr72e820&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a53200148)<br>
-[CREDIT GUARD - Power BI File](https://1drv.ms/u/c/206bbe20bed39524/EV3W4kgGC3ZItaHpjBFHyFsBAR9YVcZ2TQfG9_0U_GudjA?e=AWBASS)
+[Credit Guard - The Credit Default Foresighting Presentation](https://www.canva.com/design/DAGbr72e820/ofwsPstNGvsS9dnIBKYenA/view?utm_content=DAGbr72e820&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a53200148)
 
 
 
